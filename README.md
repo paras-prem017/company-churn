@@ -1,4 +1,4 @@
-# Analytics Projects
+# Data Analytics Projects
 
 This repository contains the projects on data analytics using Python, SQL, etc. 
 
